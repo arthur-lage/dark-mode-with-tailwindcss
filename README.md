@@ -6,8 +6,10 @@ The objective of the project was to learn how to create different themes and tog
 
 # Images
 
-<img src="./assets/screenshot-1.png" width=200>
-<img src="./assets/screenshot-2.png" width=200>
+<div>
+    <img src="./assets/screenshot-1.png" width=200>
+    <img src="./assets/screenshot-2.png" width=200>
+</div>
 
 # Run it in your device
 
